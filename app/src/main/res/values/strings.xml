@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Blood Donate</string>
+    <string name="title_activity_halaman_menu">halamanMenu</string>
+    <string name="title_activity_menu_user">menuUser</string>
+    <string name="title_activity_map_donor">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

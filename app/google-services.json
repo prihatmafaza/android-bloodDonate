@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "349601695850",
+    "firebase_url": "https://donordarah-c8ed5.firebaseio.com",
+    "project_id": "donordarah-c8ed5",
+    "storage_bucket": "donordarah-c8ed5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349601695850:android:a7eec1101bda79b2",
+        "android_client_info": {
+          "package_name": "com.example.faza.skirpsidonordarah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349601695850-4c1eg0dpv17herlha2bevd3e838t39j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi1YKgPbS7XRftktcZnGTTmaDxSvStusU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349601695850:android:2644d44001236571",
+        "android_client_info": {
+          "package_name": "com.example.faza.skripsidonordarah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349601695850-4c1eg0dpv17herlha2bevd3e838t39j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi1YKgPbS7XRftktcZnGTTmaDxSvStusU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
